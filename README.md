@@ -1,1 +1,0 @@
-# SIQ-log-adaptor
